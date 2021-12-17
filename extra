@@ -1,0 +1,11 @@
+ghidra
+gobuster
+seclists
+burpsuite
+gnu-netcat
+net-tools
+ltrace
+strace
+python-pwntools
+gdb
+wget
